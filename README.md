@@ -1,16 +1,47 @@
 # HentaiSharing No Redirects
 
-Simple userscript that adds QoL features to hentai-sharing .net such as removing redirects to most common clicked links and replacing thumbnail links to go to page directly.
+> ⚠ **WARNING**: R18  
+
+---
+
+## 📝 About  
+This is a simple userscript that enhances **hentai-sharing.net** by adding several QoL improvements:  
+- Removes redirects from commonly clicked links  
+- Modifies thumbnail links to go directly to the page  
+
+---
+
+## 📥 Installation  
+
+### 🔹 Step 1: Install a Userscript Manager  
+Install a userscript manager such as:  
+- [Tampermonkey](https://www.tampermonkey.net/) (Chrome Extension)  
+- [ViolentMonkey](https://violentmonkey.github.io/) (Alternative option)  
+
+### 🔹 Step 2: Install the Script  
+Click the link below to install:  
+➡ **[HShareNoRedirect.user.js](https://github.com/HageFX-78/HSharing-NoRedirect/raw/refs/heads/main/HShareNoRedirect.user.js)**  
+
+---
 <br><br>
-リダイレクトを削除し、サムネの画像リンクを直接ページに飛ぶように変更するなど、様々なQOL改善を行う簡単なスクリプト
-<br><br>
+## 🇯🇵 HentaiSharing リダイレクト削除  
 
-## Installation
+### 📝 概要  
+このスクリプトは **hentai-sharing.net** の使い勝手を向上させるための簡単なユーザースクリプトです。  
+- リダイレクトを削除  
+- サムネの画像リンクを直接ページに飛ぶように変更  
 
-1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon) or others like Violent Monkey for better experience
-2. Click on [this](https://github.com/HageFX-78/HSharing-NoRedirect/raw/refs/heads/main/HShareNoRedirect.user.js) and install.
+---
+
+## 📥 インストール方法  
+
+### 🔹 ステップ 1: ユーザースクリプトマネージャーをインストール  
+以下のようなユーザースクリプトマネージャーをインストールしてください。  
+- [Tampermonkey](https://www.tampermonkey.net/)（Chrome拡張機能）  
+- [ViolentMonkey](https://violentmonkey.github.io/)（代替オプション）  
+
+### 🔹 ステップ 2: スクリプトをインストール  
+以下のリンクをクリックしてインストールしてください。  
+➡ **[HShareNoRedirect.user.js](https://github.com/HageFX-78/HSharing-NoRedirect/raw/refs/heads/main/HShareNoRedirect.user.js)**  
 
 
-## インストール方法
-1. [Tampermonkey](https://www.tampermonkey.net/)（Chrome拡張機能）などのユーザースクリプトマネージャーをインストールする。他にも Violent Monkey なども使用できます。
-2. こちらの[リンク](https://github.com/HageFX-78/HSharing-NoRedirect/raw/refs/heads/main/HShareNoRedirect.user.js)をクリックしてインストールしてください。
