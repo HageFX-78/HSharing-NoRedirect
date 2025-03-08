@@ -1,8 +1,9 @@
 # HentaiSharing No Redirects
 
 Simple userscript that adds QoL features to hentai-sharing .net such as removing redirects to most common clicked links and replacing thumbnail links to go to page directly.
-<br>
+<br><br>
 リダイレクトを削除し、サムネの画像リンクを直接ページに飛ぶように変更するなど、様々なQOL改善を行う簡単なスクリプト
+<br><br>
 
 ## Installation
 
