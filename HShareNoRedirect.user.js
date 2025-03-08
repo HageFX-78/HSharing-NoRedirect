@@ -6,6 +6,8 @@
 // @author       HageFX78
 // @match        https://hentai-sharing.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hentai-sharing.net
+// @downloadURL  https://github.com/HageFX-78/HSharing-NoRedirect/raw/refs/heads/main/HShareNoRedirect.user.js
+// @updateURL    https://github.com/HageFX-78/HSharing-NoRedirect/raw/refs/heads/main/HShareNoRedirect.user.js
 // @grant        none
 // ==/UserScript==
 
