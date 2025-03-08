@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  QoL improvements for hentai-sharing.net, mainly removes redirects
 // @author       HageFX78
+// @license      MIT
 // @match        https://hentai-sharing.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hentai-sharing.net
 // @downloadURL  https://github.com/HageFX-78/HSharing-NoRedirect/raw/refs/heads/main/HShareNoRedirect.user.js
